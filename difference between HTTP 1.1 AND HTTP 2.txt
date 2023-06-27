@@ -1,0 +1,11 @@
+                                                Difference Between HTTP 1.1 AND HTTP 2
+ 
+      HTTP stands for hyper text transfer protocol. Which is mainly used to establish a connection between a client end and the server end. There is one more kind of HTTP is available which Is known as HTTPS (Hyper Text Transfer Protocol Secure) it is more secure than a normal HTTP.   There are two stages of development of HTTP they are
+      •	HTTP 1.1
+      •	HTTP 2
+
+HTTP 1.1
+      There are several stages of HTTP are there but we mainly used HTTP 1.1 and it was created in 1997. First of all the request from client has send to the server and then the server give response to client this the way the connection between the client and server is established. HTTP 1.1 is works on the textual format and it uses request resource inlining for collets all multiple pages. HTTP 1.1 compress data by itself. The problem of HTTP 1.1 is to it send all the requests in plain text message form to the server
+
+HTTP 2
+      The newer version of HTTP is known as HTTP 2 and it is developed in 2015. The main purpose of developing HTTP 2 is to reducing the web page loading latency than the previous version they have achieved it by using techniques such as compression, prioritization, and multiplexing. HTTP 2 works on the binary protocol. It uses PUSH frames by server that collects all multiple pages. HTTP 2 uses HPACK for compressing data.
