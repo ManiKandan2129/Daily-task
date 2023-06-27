@@ -1,0 +1,13 @@
+                                  Objects and its Internal Representation in Javascript
+
+Objects:
+
+        In JavaScript, an object is a collection of key-value pairs, where each value can be of any data type, including other objects, functions, and arrays. Objects provide a way to model real-world entities, such as users, products, or any other entities with properties and behaviors. 
+Objects are essential in JavaScript for organizing and manipulating complex data structures. Understanding the internal representation of objects, their prototypes, and how to create and manipulate them is crucial for writing efficient and maintainable JavaScript code.
+
+Internal Representation of Objects:
+
+        At a low level, objects in JavaScript are represented as unordered collections of properties. Each property consists of a key (also known as a property name) and a corresponding value. The value can be any valid JavaScript data type, including other objects.
+Under the hood, JavaScript engines use various techniques to efficiently store and access object properties. One common approach is to use a hash table or a dictionary-like structure. This allows for fast lookup and retrieval of values based on their property names.
+
+
