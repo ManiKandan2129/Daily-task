@@ -1,0 +1,12 @@
+1)Blog difference between document object and windows object:
+
+
+           In the world of web development both document objects and windows objects play crucial role in creating a dynamic and interactive website. As a developer it is essential to understanding these two concepts. And how they perform in the browser environment.
+
+Document objects:
+
+           In web development the document object model (DOM) represents the structure of an HTML document. The document object is the fundamental of the DOM and serves as the interface to access and manipulate the contents in the web page. It represents the entire HTML document and head and body elements. The document object represents an HTML document by a tree structure. With document object model, developers can create, modify and delete an element in the HTML document. It allows for adding an element and modify the text and attributes of the existing element.  
+
+Windows object
+:
+          While the document object model represents a contents and structure of an HTML document, the windows objects represent the browser window a tab which the HTML document can be loaded. It acts as a global object for java script and provides access to various browser related properties and methods. The windows object is the highest-level object in browser’s java script environment. The window objects provide access to properties and methods related to browser window. It includes functionalities like opening new windows or tabs and navigating to different URLs, and interacting with the browser's history.
